@@ -1,7 +1,11 @@
 Default config line 1
 
+
 FEATURE1: New database connection settings
 
 FEATURE2: Increase cache size to 1024
+
+
+FEATURE1: New database connection settings
 
 Default config line 3
