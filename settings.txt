@@ -1,0 +1,3 @@
+Default config line 1
+The conflict line should be here
+Default config line 3
